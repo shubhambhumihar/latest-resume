@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.links ul li {
+  font-size: 18px;
+  color: whitesmoke;
+}
+.links ul li:hover {
+  color: rgb(120, 88, 248);
+}
